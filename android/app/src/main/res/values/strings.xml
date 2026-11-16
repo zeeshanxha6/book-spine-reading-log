@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Book Spine Reading Log</string>
+    <string name="app_title">BOOK SPINE READING LOG</string>
+
+    <string name="splash_title_top">BOOK SPINE</string>
+    <string name="splash_title_bottom">READING LOG</string>
+    <string name="splash_subtitle">A SHELF OF EVERY BOOK YOU FINISH</string>
+    <string name="splash_footer">LOADING YOUR SHELF</string>
+
+    <string name="start_logging">START LOGGING</string>
+    <string name="log_again">LOG AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="save_pages">SAVE PAGES</string>
+    <string name="finish_book">FINISH BOOK</string>
+    <string name="add_note">ADD NOTE</string>
+    <string name="add_book">ADD BOOK</string>
+    <string name="add_first_book">ADD YOUR FIRST BOOK</string>
+    <string name="shelf">SHELF</string>
+    <string name="stats">STATS</string>
+    <string name="settings">SETTINGS</string>
+    <string name="save">SAVE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="reset">RESET</string>
+    <string name="reset_data">RESET DATA</string>
+
+    <string name="menu_subtitle">%1$d OF %2$d BOOKS THIS YEAR</string>
+    <string name="shelf_empty">YOUR SHELF IS WAITING</string>
+    <string name="shelf_more">+%1$d MORE</string>
+    <string name="goal_percent">%1$d%%</string>
+
+    <string name="stat_books">BOOKS</string>
+    <string name="stat_pages">PAGES</string>
+    <string name="stat_streak">STREAK</string>
+    <string name="stat_today">TODAY</string>
+    <string name="stat_left">LEFT</string>
+    <string name="stat_goal">GOAL</string>
+    <string name="stat_average">AVG MONTH</string>
+
+    <string name="log_pages">LOG PAGES</string>
+    <string name="currently_reading">CURRENTLY READING</string>
+    <string name="page_badge">%1$d / %2$d</string>
+    <string name="page_of">PAGE %1$d OF %2$d</string>
+    <string name="quick_step">+%1$d</string>
+    <string name="library_empty">NO BOOKS ON YOUR DESK YET</string>
+
+    <string name="result_spine_earned">SPINE EARNED</string>
+    <string name="result_pages_logged">PAGES LOGGED</string>
+    <string name="result_on_shelf">%1$s IS ON YOUR SHELF</string>
+    <string name="result_keep_going">KEEP GOING WITH %1$s</string>
+    <string name="result_pages_value">+%1$d</string>
+    <string name="result_goal_value">%1$d / %2$d</string>
+
+    <string name="book_detail">BOOK DETAIL</string>
+    <string name="notes_and_quotes">NOTES AND QUOTES</string>
+    <string name="notes_empty">NO NOTES YET</string>
+    <string name="status_reading">READING</string>
+    <string name="status_finished">FINISHED</string>
+    <string name="detail_meta">%1$d PAGES · %2$d READ</string>
+    <string name="note_kind_quote">QUOTE · P. %1$d</string>
+    <string name="note_kind_note">NOTE · P. %1$d</string>
+
+    <string name="pages_per_month">PAGES PER MONTH</string>
+    <string name="pace">PACE</string>
+    <string name="pace_ahead">YOU ARE %1$d BOOKS AHEAD OF YOUR YEARLY GOAL</string>
+    <string name="pace_behind">YOU ARE %1$d BOOKS BEHIND YOUR YEARLY GOAL</string>
+    <string name="pace_on_track">YOU ARE RIGHT ON PACE FOR YOUR YEARLY GOAL</string>
+
+    <string name="theme">THEME</string>
+    <string name="theme_forest">FOREST</string>
+    <string name="theme_parchment">PARCHMENT</string>
+    <string name="theme_hint">TAP TO APPLY</string>
+    <string name="yearly_goal">YEARLY GOAL</string>
+    <string name="yearly_goal_hint">BOOKS YOU WANT TO FINISH THIS YEAR</string>
+    <string name="haptics">Haptic feedback</string>
+    <string name="settings_footer">ALL DATA STAYS ON THIS DEVICE</string>
+    <string name="reset_warning">This clears your shelf, notes and streak, then restores the starter library.</string>
+
+    <string name="field_title">Title</string>
+    <string name="field_author">Author</string>
+    <string name="field_pages">TOTAL PAGES</string>
+    <string name="field_note">Note or quote</string>
+    <string name="field_page">PAGE</string>
+    <string name="kind_quote">QUOTE</string>
+    <string name="kind_note">NOTE</string>
+    <string name="error_title_required">Give the book a title first</string>
+    <string name="error_note_required">Write something before saving</string>
+
+    <string name="state_selected">Selected</string>
+    <string name="state_not_selected">Not selected</string>
+
+    <string name="cd_logo">Book Spine Reading Log emblem</string>
+    <string name="cd_back">Go back</string>
+    <string name="cd_settings">Open settings</string>
+    <string name="cd_decrease">Decrease value</string>
+    <string name="cd_increase">Increase value</string>
+    <string name="cd_saved">Pages saved</string>
+    <string name="cd_goal_ring">Yearly goal ring: %1$d of %2$d books finished, %3$d percent complete</string>
+    <string name="cd_spine">%1$s, finished book on the shelf</string>
+    <string name="cd_empty_shelf">An open book waiting for your first finished title</string>
+    <string name="cd_empty_library">An open book waiting to be added</string>
+    <string name="cd_result_hero">Reading session result</string>
+    <string name="cd_month_chart">Best month %1$s with %2$d pages</string>
+
+    <string-array name="month_letters">
+        <item>J</item>
+        <item>F</item>
+        <item>M</item>
+        <item>A</item>
+        <item>M</item>
+        <item>J</item>
+        <item>J</item>
+        <item>A</item>
+        <item>S</item>
+        <item>O</item>
+        <item>N</item>
+        <item>D</item>
+    </string-array>
+</resources>
